@@ -1,5 +1,5 @@
-1.red
-2.blue
-4.888888
-5.black
-6.orange
+1.Red
+2.Blue
+4.White
+5.Black
+6.Orange
