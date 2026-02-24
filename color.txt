@@ -1,8 +1,7 @@
-
-1. red
-2. blue
-3. yellow
-4. pink
-5. magenta
-6. beige
+1. Red
+2. Blue
+3. Yellow
+4. Pink
+5. Magenta
+6. Beige
 
